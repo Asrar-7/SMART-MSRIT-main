@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.capricious.asrar.gitstudent">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="MSRIT"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".TimeTableActivity"></activity>
+        <activity android:name=".EADActivity" />
+        <activity android:name=".ISEMTECH" />
+        <activity android:name=".ISECourse" />
+        <activity
+            android:name=".MainActivity"
+            android:label="Smart MSRIT"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".ProfieActivity" />
+        <activity android:name=".WebviewGit" />
+        <activity android:name=".Login2" />
+        <activity android:name=".SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".ActivityOne" />
+        <activity android:name=".SyllabusActivity" />
+        <activity android:name=".BranchActivity" />
+        <activity android:name=".FourCse" />
+        <activity android:name=".FourDAAL" />
+        <activity android:name=".CourseRegisterActivity" />
+        <activity android:name=".FourCIV" />
+        <activity android:name=".FourDAAT" />
+        <activity android:name=".FourDBMS" />
+        <activity android:name=".FourDMS" />
+        <activity android:name=".FourECWL" />
+        <activity android:name=".FourMMCL" />
+        <activity android:name=".FourMMCT" />
+        <activity android:name=".FourOPPSL" />
+        <activity android:name=".FourOS" />
+        <activity android:name=".MobVerification" />
+        <activity android:name=".VerifyPhoneActivity" />
+        <activity android:name=".DBMSU1" />
+        <activity android:name=".DBMSU2" />
+        <activity android:name=".DBMSU3" />
+        <activity android:name=".DBMSU4" />
+        <activity android:name=".DBMSU5" />
+        <activity android:name=".FourMP" />
+        <activity android:name=".FourMC" />
+    </application>
+
+</manifest>

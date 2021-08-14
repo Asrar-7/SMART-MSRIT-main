@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Smart MSRIT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contineo">Contineo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_four_dms">FourDMS</string>
+    <string name="large_text"></string>
+
+    <string name="title_activity_four_civ">FourCIV</string>
+    <string name="title_activity_four_oppsl">FourOPPSL</string>
+    <string name="title_activity_four_os">FourOS</string>
+    <string name="title_activity_four_daal">FourDAAL</string>
+    <string name="title_activity_four_dbms">FourDBMS</string>
+    <string name="title_activity_four_ecwl">FourECWL</string>
+    <string name="title_activity_four_mmcl">FourMMCL</string>
+    <string name="title_activity_four_daat">FourDAAT</string>
+    <string name="title_activity_four_mmct">FourMMCT</string>
+</resources>

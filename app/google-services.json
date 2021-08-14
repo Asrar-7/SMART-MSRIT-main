@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "821233192323",
+    "firebase_url": "https://gitstudent-e578a.firebaseio.com",
+    "project_id": "gitstudent-e578a",
+    "storage_bucket": "gitstudent-e578a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821233192323:android:841d853bd822aca9",
+        "android_client_info": {
+          "package_name": "com.capricious.asrar.gitstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821233192323-07cajhqlvfq5bv8ffah3s2bjir7l5q73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capricious.asrar.gitstudent",
+            "certificate_hash": "e4ed3907768c3a769e39c7a06a2302860ba3bc9e"
+          }
+        },
+        {
+          "client_id": "821233192323-54miv5f7ojrg54qna0mb6gatlj0cu35t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHBN4YSrNNRyMZA0V90uNJVd7c-hg4KAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821233192323-54miv5f7ojrg54qna0mb6gatlj0cu35t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

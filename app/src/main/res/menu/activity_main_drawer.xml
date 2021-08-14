@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="e-Learning" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+            android:title="MSRIT ISE" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="e-Sutra Contineo" />
+
+        <item
+            android:id="@+id/nav_manage2"
+            android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+            android:title="Time Table" />
+
+        <item
+            android:id="@+id/nav_manage4"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Feedback" />
+
+
+        <item
+            android:id="@+id/nav_manage3"
+            android:icon="@drawable/calendar"
+            android:title="Events" />
+
+        <item
+            android:id="@+id/nav_manage1"
+            android:icon="@drawable/team_time"
+            android:title="ChatBot" />
+
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_account_circle_black_24dp"
+            android:title="Logout" />
+
+
+
+
+
+
+    </group>
+
+
+</menu>
